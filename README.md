@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard
+# Superstore Sales Report
 
 An interactive Power BI report built on the Superstore dataset using SQL Server for data preparation and DAX for calculations.
 
