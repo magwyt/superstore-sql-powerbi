@@ -11,3 +11,6 @@ An interactive Power BI report built on the Superstore dataset using SQL Server 
 ## Tools Used
 - SQL Server (T-SQL)
 - Power BI (DAX, data modeling)
+
+## Live Demo
+[>>>click<<<](https://app.powerbi.com/view?r=eyJrIjoiNTA0MTNlZmItZDYzNC00M2UwLTg0OGQtMTFjNGVjODcwZDFjIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
